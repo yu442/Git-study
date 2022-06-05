@@ -7,3 +7,6 @@ this is a conflict
 aa
 
 bb
+
+this is another conflict
+
